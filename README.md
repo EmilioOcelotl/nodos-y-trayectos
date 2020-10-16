@@ -1,4 +1,4 @@
-![portada](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/master/img/nodos-jpg)
+![portada](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/img/nodos-jpg)
 
 # Nodos y Trayectos
 
