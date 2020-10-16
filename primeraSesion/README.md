@@ -2,6 +2,8 @@
 
 - Presentación personal y del taller.
 
+- Intereses y motivaciones. 
+
 - Ruta propuesta: Audio y video, flujos locales, flujos en la web.
 
 - Intereses y motivaciones 
@@ -10,4 +12,5 @@
 
 - La interfaz como un frontera
 
-- Código y lenguajes de programación. 
+- Código y lenguajes de programación.
+
