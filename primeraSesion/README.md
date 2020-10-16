@@ -12,5 +12,7 @@
 
 - La interfaz como un frontera
 
+- La línea de comandos
+
 - Código y lenguajes de programación.
 
