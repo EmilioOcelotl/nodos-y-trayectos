@@ -32,7 +32,7 @@
 
 ## Software libre y creatividad
 
-- Ejes: Processing y SuperCollider. Ambos son tres cosas a la vez. Utilizan un IDE que es el mismo para cualquier sistema operativo 
+- Ejes: Processing y SuperCollider. Ambos son tres cosas a la vez. Utilizan un IDE que es el mismo en cualquier sistema operativo 
 
 - De manera complementaria utilizaremos programas y protocolos para interconectar programas y personas
 

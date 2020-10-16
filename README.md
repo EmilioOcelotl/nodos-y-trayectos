@@ -1,3 +1,5 @@
+![portada](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/master/img/nodos-jpg)
+
 # Nodos y Trayectos
 
 El taller está enfocado a la realización de piezas audiovisuales que puedan funcionar en la web de manera autónoma o en red. El cableado de relaciones audiovisuales se realizará en un primer momento de manera local y posteriormente realizaremos conexiones vía internet. En el rubro local abordaremos el funcionamiento de SuperCollider, Processing y la conexión que podemos establecer entre estos programas.
