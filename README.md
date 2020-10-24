@@ -6,13 +6,23 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 ## Sesiones 
 
-- [ ] [Primera sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/primeraSesion/README.md) - 16 de octubre de 2020
+- [x] [Primera sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/primeraSesion/README.md) - 16 de octubre de 2020
 
-## Recursos y enlaces 
+- [ ] [Segunda sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/segundaSesion/README.md) - 24 de octubre de 2020
+
+## Recursos y enlaces
+
+- [Coding Train](https://www.youtube.com/c/TheCodingTrain/videos) - Processing y P5
+
+- [Images and Pixels - Daniel Shiffman](https://www.processing.org/tutorials/pixels/)
+
+## Plataformas 
 
 - [SuperCollider](https://supercollider.github.io/)
 
 - [Processing](https://processing.org/)
+
+- [Hydra](https://github.com/ojack/hydra)
 
 - [Jack](https://jackaudio.org/) 
 
