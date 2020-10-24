@@ -20,7 +20,9 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 ## Recursos y enlaces
 
-- [Coding Train](https://www.youtube.com/c/TheCodingTrain/videos) - Processing y P5
+- [Air Room](https://www.youtube.com/c/Airroom/videos) - Processing y Cinema 4D en español 
+
+- [Coding Train](https://www.youtube.com/c/TheCodingTrain/videos) - Processing y P5.js en inglés.
 
 - [Images and Pixels - Daniel Shiffman](https://www.processing.org/tutorials/pixels/)
 
@@ -29,6 +31,8 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 - [SuperCollider](https://supercollider.github.io/)
 
 - [Processing](https://processing.org/)
+
+- [P5.js](https://p5js.org/es/)
 
 - [Hydra](https://github.com/ojack/hydra)
 
