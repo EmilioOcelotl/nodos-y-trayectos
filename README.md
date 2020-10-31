@@ -22,11 +22,13 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
 
-  - Bibliotecas > Sonido y OSC
+  - Si da tiempo: SuperCollider. 
 
-  - Próxima sesión: ¿SuperCollider y OSC? 
+  - Próxima sesión: SuperCollider y algo de imagen (fuera de Processing). 
 
 ## Recursos y enlaces
+
+- [Distributed Web of Care](http://distributedweb.care/)
 
 - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
 
