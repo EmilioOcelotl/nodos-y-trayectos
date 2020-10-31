@@ -10,15 +10,27 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Introducción, presentación y discusión 
 
-- [ ] [Segunda sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/segundaSesion/README.md) - 24 de octubre de 2020
+- [x] [Segunda sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/segundaSesion/README.md) - 24 de octubre de 2020
 
   - ¿Qué es y cómo funciona Processing?
 
-  - Repeticiones y bucles
+  - Modo estático / modo dinámico. Animación sencilla > [codigo](https://gist.github.com/EmilioOcelotl/d382e19b1c5f4a962cf3cac7b85ef975)
 
-  - Introducción a la transformación de imágenes con Processing > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
+- [ ] [Tercera sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/terceraSesion/README.md) - 31 de octubre de 2020
+
+  - [Repeticiones y bucles](https://gist.github.com/EmilioOcelotl/6a2fb62fdacc1d187bb0ecccbae2c68f). Hablar de rect() y color.   
+
+  - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
+
+  - Bibliotecas > Sonido y OSC 
 
 ## Recursos y enlaces
+
+- [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
+
+- [Debugging](https://p5js.org/learn/debugging.html) 
+
+- [Hydra](https://github.com/jac307/HydraTutorial) - Tutorial Español | Inglés. 
 
 - [Air Room](https://www.youtube.com/c/Airroom/videos) - Processing y Cinema 4D en español 
 
@@ -35,6 +47,8 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 - [P5.js](https://p5js.org/es/)
 
 - [Hydra](https://github.com/ojack/hydra)
+
+- [Estuary](https://estuary.mcmaster.ca/) 
 
 - [Jack](https://jackaudio.org/) 
 
