@@ -42,6 +42,8 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 ## Plataformas 
 
+- [Flok](https://github.com/munshkr/flok)
+
 - [SuperCollider](https://supercollider.github.io/)
 
 - [Processing](https://processing.org/)
