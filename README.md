@@ -22,7 +22,9 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
 
-  - Bibliotecas > Sonido y OSC 
+  - Bibliotecas > Sonido y OSC
+
+  - Próxima sesión: ¿SuperCollider y OSC? 
 
 ## Recursos y enlaces
 
@@ -49,6 +51,8 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 - [Hydra](https://github.com/ojack/hydra)
 
 - [Estuary](https://estuary.mcmaster.ca/) 
+
+- [Sonobus](https://sonobus.net) 
 
 - [Jack](https://jackaudio.org/) 
 
