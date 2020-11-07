@@ -16,17 +16,33 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Modo estático / modo dinámico. Animación sencilla > [codigo](https://gist.github.com/EmilioOcelotl/d382e19b1c5f4a962cf3cac7b85ef975)
 
-- [ ] [Tercera sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/terceraSesion/README.md) - 31 de octubre de 2020
+- [x] [Tercera sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/terceraSesion/README.md) - 31 de octubre de 2020
 
   - [Repeticiones y bucles](https://gist.github.com/EmilioOcelotl/6a2fb62fdacc1d187bb0ecccbae2c68f). Hablar de rect() y color.   
 
   - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
 
-  - Si da tiempo: SuperCollider. 
+- [ ] Cuarta Sesión - 7 de noviembre de 2020
 
-  - Próxima sesión: SuperCollider y algo de imagen (fuera de Processing). 
+  - SuperCollider. IDE, instalación 
+
+  - Antecedentes y algo de historia > UGens.
+
+  - Funcionamiento básico.
+
+  - Si da tiempo > ProxySpace. 
 
 ## Recursos y enlaces
+
+- [ProxySpace](http://doc.sccode.org/Classes/ProxySpace.html)
+
+- [SuperCollider Principiantes](http://cmm.cenart.gob.mx/tallerdeaudio/cursos/cursocollider/textos/curso%20de%20supercollider%20principiantes.pdf) - Taller de Audio CMM 
+
+- [Getting Started With SC](http://doc.sccode.org/Tutorials/Getting-Started/00-Getting-Started-With-SC.html)
+
+- [Live Coding Techniques for Laptop Performance](https://composerprogrammer.com/research/livecoding.pdf) - Collins, N., McLean, A., Rohrhuber, J. & Ward, A. 
+
+- [Escribir código fuente para generar música y sonido](http://europia.org/cac6/CAC-Pdf/31-CAC6_paper_25.pdf) - Hernani Villaseñor 
 
 - [Distributed Web of Care](http://distributedweb.care/)
 
