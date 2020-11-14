@@ -22,17 +22,31 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
 
-- [ ] Cuarta Sesión - 7 de noviembre de 2020
+- [x] Cuarta Sesión - 7 de noviembre de 2020
 
   - SuperCollider. IDE, instalación 
 
   - Antecedentes y algo de historia > UGens.
 
-  - Funcionamiento básico.
+  - [Funciones](http://doc.sccode.org/Tutorials/Getting-Started/04-Functions-and-Other-Functionality.html) y primeros pasos.
 
-  - Si da tiempo > ProxySpace. 
+- [ ] Quinta Sesión - 14 de noviembre de 2020
+
+  - Una parte muy pequeña de SC > ProxySpace.
+
+  - Introducción básica a los tipos de síntesis
+
+  - Inputs, outputs y reproducción de muestras
+
+  - Si da tiempo > mensajes OSC y MIDI.  
 
 ## Recursos y enlaces
+
+- [Open Sound Control (OSC)](http://opensoundcontrol.org/introduction-osc)
+
+- [OSC y SuperCollider](http://cmm.cenart.gob.mx/tallerdeaudio/cursos/cursocollider/curso_intermedios/Clase%2015.html) - Taller de Audio del CMM
+
+- [Just In Time Programming - Library](http://cmm.cenart.gob.mx/tallerdeaudio/actividades/sesioneslivecoding/sesioneslivecoding/jitlib.pdf) en español 
 
 - [ProxySpace](http://doc.sccode.org/Classes/ProxySpace.html)
 
@@ -66,9 +80,19 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 - [Processing](https://processing.org/)
 
+- [OBS Studio](https://obsproject.com/es)
+
+- [Icecast](https://icecast.org/)
+
 - [P5.js](https://p5js.org/es/)
 
 - [Hydra](https://github.com/ojack/hydra)
+
+- [openFrameworks](https://openframeworks.cc/)
+
+- [Three.js](https://openframeworks.cc/)
+
+- [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API)
 
 - [Estuary](https://estuary.mcmaster.ca/) 
 
