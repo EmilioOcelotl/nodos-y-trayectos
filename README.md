@@ -22,7 +22,7 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Pixeles en Processing y PImage > [Código](https://gist.github.com/EmilioOcelotl/5f1c94561a46fea5fbf2b00ee68e3b28)   
 
-- [x] Cuarta Sesión - 7 de noviembre de 2020
+- [x] [Cuarta Sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/cuartaSesion/README.md) - 7 de noviembre de 2020
 
   - SuperCollider. IDE, instalación 
 
@@ -30,15 +30,19 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - [Funciones](http://doc.sccode.org/Tutorials/Getting-Started/04-Functions-and-Other-Functionality.html) y primeros pasos.
 
-- [ ] Quinta Sesión - 14 de noviembre de 2020
+- [x] Quinta Sesión - 14 de noviembre de 2020
 
   - Una parte muy pequeña de SC > ProxySpace.
+
+  - [Código de la sesión](https://gist.github.com/EmilioOcelotl/eb091c1b4b27c744f92fd9673e522a43)
+
+- [ ] Sexta Sesión - 21 de noviembre de 2020
 
   - Introducción básica a los tipos de síntesis
 
   - Inputs, outputs y reproducción de muestras
 
-  - Si da tiempo > mensajes OSC y MIDI.  
+  - OSC y MIDI 
 
 ## Recursos y enlaces
 
