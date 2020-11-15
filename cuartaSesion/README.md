@@ -12,7 +12,9 @@ Las combinaciones de teclas implican presionar una tecla y otra después. Por ej
 
 Ctrl y Cmd son equivalentes, la diferencia radica en el sistema operativo: ctrl se usa en windows y linux y cmd en mac.
 
-Utilizaremos la combinación ctrl/cmd + Enter para declarar una línea o secciones de código. 
+Utilizaremos la combinación shift + Enter para declarar una línea de código. 
+
+Utilizaremos la combinación ctrl/cmd + Enter para declarar secciones de código. 
 
 ## Qué es SuperCollider
 
@@ -34,4 +36,20 @@ Si descargamos la aplicación SC estaremos descargando un Entorno de Desarrollo 
 
 ## Hola Mundo
 
-  
+Es una especie de tradición que cuando estamos aprendiendo un nuevo lenguaje de programación iniciamos con un programa simple: 'hello world'. Básicamente lo que queremos hacer es imprimir el texto 'Hello World!' en algún lugar.
+
+Entonces lo que vamos a hacer es imprimir este texto en la ventana de información o *post window*. Para hacer esto escribimos en SC:
+
+``java
+"Hello World!".postln
+``
+
+Para ejecutar esto simplemente ponemos el curso en la misma línea del código que queremos ejecutar (puede ser en cualquier lugar de esa línea) y presionamos shift + Enter.
+
+Si todo sale bien, deberíamos ver el mensaje impreso en la post window.
+
+También podríamos seleccionar la línea de código que deseamos ejecutar y luego presionar ctrl+Enter.
+
+Hablemos un poco del código. La primera parte "Hello World!" es una especie de objeto (podemos hablar de esto más adelante) llamado String. Un objeto es basicamente una forma de representar algo en la computadora, por ejemplo un texto o un oscilador. Podemos decir provisionalmente que un String es una forma de representar un pedazo de texto. También podemos decir que un String es un arreglo, colección o concatenación de caracteres.
+
+La segunda parte .postln imprime el texto. Esta instrucción se puede aplicar a prácticamente cualquier cosa en SuperCollider y puede ser útil para imprimir mensajes o errores. 
