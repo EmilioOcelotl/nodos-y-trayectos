@@ -46,17 +46,33 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 ## Recursos y enlaces
 
-- [Open Sound Control (OSC)](http://opensoundcontrol.org/introduction-osc)
+Ligas relevantes
 
-- [OSC y SuperCollider](http://cmm.cenart.gob.mx/tallerdeaudio/cursos/cursocollider/curso_intermedios/Clase%2015.html) - Taller de Audio del CMM
+### Tutoriales 
 
 - [Just In Time Programming - Library](http://cmm.cenart.gob.mx/tallerdeaudio/actividades/sesioneslivecoding/sesioneslivecoding/jitlib.pdf) en español 
-
-- [ProxySpace](http://doc.sccode.org/Classes/ProxySpace.html)
 
 - [SuperCollider Principiantes](http://cmm.cenart.gob.mx/tallerdeaudio/cursos/cursocollider/textos/curso%20de%20supercollider%20principiantes.pdf) - Taller de Audio CMM 
 
 - [Getting Started With SC](http://doc.sccode.org/Tutorials/Getting-Started/00-Getting-Started-With-SC.html)
+
+-  [Composición algorítmica en SuperCollider](https://es.coursera.org/learn/composicion-algoritmica-supercollider) - Mauro Herrera y Cristian Bañuelos 
+
+- [Hydra](https://github.com/jac307/HydraTutorial) - Tutorial Español | Inglés. 
+
+- [Images and Pixels - Daniel Shiffman](https://www.processing.org/tutorials/pixels/)
+
+### Conceptos e información general 
+
+- [Open Sound Control (OSC)](http://opensoundcontrol.org/introduction-osc)
+
+- [OSC y SuperCollider](http://cmm.cenart.gob.mx/tallerdeaudio/cursos/cursocollider/curso_intermedios/Clase%2015.html) - Taller de Audio del CMM
+
+- [ProxySpace](http://doc.sccode.org/Classes/ProxySpace.html)
+
+- [Debugging](https://p5js.org/learn/debugging.html) 
+
+### Artículos y lecturas
 
 - [Live Coding Techniques for Laptop Performance](https://composerprogrammer.com/research/livecoding.pdf) - Collins, N., McLean, A., Rohrhuber, J. & Ward, A. 
 
@@ -66,15 +82,11 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 - [Taeyoon Choi - Hello World!](http://avant.org/project/hello-world/)
 
-- [Debugging](https://p5js.org/learn/debugging.html) 
-
-- [Hydra](https://github.com/jac307/HydraTutorial) - Tutorial Español | Inglés. 
+### Videos 
 
 - [Air Room](https://www.youtube.com/c/Airroom/videos) - Processing y Cinema 4D en español 
 
 - [Coding Train](https://www.youtube.com/c/TheCodingTrain/videos) - Processing y P5.js en inglés.
-
-- [Images and Pixels - Daniel Shiffman](https://www.processing.org/tutorials/pixels/)
 
 ## Plataformas 
 
