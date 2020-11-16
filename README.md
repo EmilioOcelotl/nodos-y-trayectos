@@ -90,21 +90,29 @@ Ligas relevantes
 
 ## Plataformas 
 
-- [Flok](https://github.com/munshkr/flok)
+### Audio
 
 - [SuperCollider](https://supercollider.github.io/)
 
+- [Jack](https://jackaudio.org/) 
+
+- Tidal 
+
+### Video
+
 - [Processing](https://processing.org/)
 
-- [OBS Studio](https://obsproject.com/es)
+- [openFrameworks](https://openframeworks.cc/)
 
-- [Icecast](https://icecast.org/)
+- [ffmpeg](https://ffmpeg.org/) 
+
+### Web audio / video 
+
+- [Flok](https://github.com/munshkr/flok)
 
 - [P5.js](https://p5js.org/es/)
 
 - [Hydra](https://github.com/ojack/hydra)
-
-- [openFrameworks](https://openframeworks.cc/)
 
 - [Three.js](https://openframeworks.cc/)
 
@@ -112,8 +120,10 @@ Ligas relevantes
 
 - [Estuary](https://estuary.mcmaster.ca/) 
 
+### Transmisión 
+
+- [OBS Studio](https://obsproject.com/es)
+
+- [Icecast](https://icecast.org/)
+
 - [Sonobus](https://sonobus.net) 
-
-- [Jack](https://jackaudio.org/) 
-
-- [ffmpeg](https://ffmpeg.org/) 
