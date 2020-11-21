@@ -38,11 +38,15 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
 - [ ] Sexta Sesión - 21 de noviembre de 2020
 
-  - Introducción básica a los tipos de síntesis
+  - [ProxySpace, sintesis y reproducción de muestras](https://gist.github.com/EmilioOcelotl/dc01abdfe83cdb2c8c867c870bece065)
 
-  - Inputs, outputs y reproducción de muestras
+  - Entradas y salidas.   
 
   - OSC y MIDI 
+
+- [ ] Séptima Sesión - 27 de noviembre de 2020 
+
+- [ ] Octava Sesión - 5 de diciembre de 2020
 
 ## Recursos y enlaces
 
@@ -96,7 +100,13 @@ Ligas relevantes
 
 - [Jack](https://jackaudio.org/) 
 
-- Tidal 
+- [TidalCycles](https://tidalcycles.org/index.php/Welcome)
+
+- [Csound](https://csound.com/)
+
+- [Chuck](https://chuck.cs.princeton.edu/)
+
+- [Music N](https://en.wikipedia.org/wiki/MUSIC-N)
 
 ### Video
 
@@ -119,6 +129,8 @@ Ligas relevantes
 - [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API)
 
 - [Estuary](https://estuary.mcmaster.ca/) 
+
+- [Liquid Soap](https://www.liquidsoap.info/)
 
 ### Transmisión 
 
