@@ -1,0 +1,13 @@
+# OSC e interacción audio-video
+
+En esta sesión revisaremos algunos tópicos relacionados con la comunicación OSC y las posibilidades de la interacción audiovisual.
+
+Anteriormente hemos mencionado que hay dos formas de realizar esto, utilizando un programa como motor gráfico y otro como motor de audio o utilizando el mismo programa para ambas cosas.
+
+Supercollider cuenta con un motor gráfico, sin embargo, es bastante deficiente si lo comparamos con las posibilidades de Processing.
+
+Entonces, utilizaremos SuperCollider y Processing para realizar un pequeño ejercicio de interacción por medio de OSC.
+
+Antes de eso, realizaremos un pequeño ejercicio de OSC para entender cómo funciona este protocolo.
+
+## Redes 

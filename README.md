@@ -36,13 +36,11 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - [Código de la sesión](https://gist.github.com/EmilioOcelotl/eb091c1b4b27c744f92fd9673e522a43)
 
-- [ ] Sexta Sesión - 21 de noviembre de 2020
+- [ ] [Sexta Sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/sextaSesion/README.md) - 21 de noviembre de 2020
 
-  - [ProxySpace, sintesis y reproducción de muestras](https://gist.github.com/EmilioOcelotl/dc01abdfe83cdb2c8c867c870bece065)
+  - ProxySpace, sintesis, envolventes, reproducción de muestras y grabación > [Código](https://gist.github.com/EmilioOcelotl/dc01abdfe83cdb2c8c867c870bece065)
 
-  - Entradas y salidas.   
-
-  - OSC y MIDI 
+  - Conexión entre [Processing](https://gist.github.com/EmilioOcelotl/7059f7f896a6c46f5844a4855f9db382) y [SuperCollider](https://gist.github.com/EmilioOcelotl/edd0b511497d15d911f1ab5433244f27) vía OSC. 
 
 - [ ] Séptima Sesión - 27 de noviembre de 2020 
 
