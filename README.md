@@ -42,7 +42,13 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - Conexión entre [Processing](https://gist.github.com/EmilioOcelotl/7059f7f896a6c46f5844a4855f9db382) y [SuperCollider](https://gist.github.com/EmilioOcelotl/edd0b511497d15d911f1ab5433244f27) vía OSC. 
 
-- [ ] Séptima Sesión - 27 de noviembre de 2020 
+- [ ] Séptima Sesión - 27 de noviembre de 2020
+
+  - Últimos detalles de SC, OSC y MIDI
+
+  - Comunicación interna
+
+  - Flujos, ejercicio sencillo con Jacktrip y SuperCollider. Diferencias
 
 - [ ] Octava Sesión - 5 de diciembre de 2020
 
