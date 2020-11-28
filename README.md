@@ -132,6 +132,8 @@ Ligas relevantes
 
 ### Transmisión 
 
+- [Jacktrip](https://ccrma.stanford.edu/software/jacktrip/)
+
 - [butt](http://danielnoethen.de/butt/)
 
 - [OBS Studio](https://obsproject.com/es)
