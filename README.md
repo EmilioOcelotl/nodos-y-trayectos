@@ -36,7 +36,7 @@ El taller está enfocado a la realización de piezas audiovisuales que puedan fu
 
   - [Código de la sesión](https://gist.github.com/EmilioOcelotl/eb091c1b4b27c744f92fd9673e522a43)
 
-- [ ] [Sexta Sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/sextaSesion/README.md) - 21 de noviembre de 2020
+- [x] [Sexta Sesión](https://github.com/EmilioOcelotl/nodos-y-trayectos/blob/main/sextaSesion/README.md) - 21 de noviembre de 2020
 
   - ProxySpace, sintesis, envolventes, reproducción de muestras y grabación > [Código](https://gist.github.com/EmilioOcelotl/dc01abdfe83cdb2c8c867c870bece065)
 
@@ -122,18 +122,22 @@ Ligas relevantes
 
 - [Hydra](https://github.com/ojack/hydra)
 
-- [Three.js](https://openframeworks.cc/)
+- [three.js](https://threejs.org/)
 
 - [Web Audio API](https://developer.mozilla.org/es/docs/Web_Audio_API)
 
 - [Estuary](https://estuary.mcmaster.ca/) 
 
-- [Liquid Soap](https://www.liquidsoap.info/)
+- [Live Lab](https://livelab.app/)
 
 ### Transmisión 
+
+- [butt](http://danielnoethen.de/butt/)
 
 - [OBS Studio](https://obsproject.com/es)
 
 - [Icecast](https://icecast.org/)
 
 - [Sonobus](https://sonobus.net) 
+
+- [Liquid Soap](https://www.liquidsoap.info/)
